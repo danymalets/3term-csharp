@@ -1,0 +1,76 @@
+﻿Выполняется установка сборки 'C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.InstallLog
+   assemblypath = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe
+Устанавливается служба ETL...
+Создается исходный EventLog ETL в журнале Application...
+Выполняется откат для сборки 'C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.InstallLog
+   assemblypath = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe
+Восстанавливается исходное состояние журнала событий для источника ETL.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.InstallLog
+   assemblypath = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe
+Устанавливается служба ETL...
+Служба ETL успешно установлена.
+Создается исходный EventLog ETL в журнале Application...
+Выполняется фиксация сборки 'C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.InstallLog
+   assemblypath = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe
+Выполняется установка сборки 'C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.InstallLog
+   assemblypath = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe
+Устанавливается служба ETL...
+Создается исходный EventLog ETL в журнале Application...
+Выполняется откат для сборки 'C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.InstallLog
+   assemblypath = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe
+Восстанавливается исходное состояние журнала событий для источника ETL.
+Выполняется установка сборки 'C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.InstallLog
+   assemblypath = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe
+Устанавливается служба ETL...
+Создается исходный EventLog ETL в журнале Application...
+Выполняется откат для сборки 'C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.InstallLog
+   assemblypath = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe
+Восстанавливается исходное состояние журнала событий для источника ETL.
+Выполняется удаление сборки 'C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.InstallLog
+   assemblypath = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe
+Выполняется удаление источника EventLog ETL.
+Выполняется удаление службы ETL из системы...
+Служба ETL успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.InstallLog
+   assemblypath = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe
+Устанавливается служба ETL...
+Служба ETL успешно установлена.
+Создается исходный EventLog ETL в журнале Application...
+Выполняется фиксация сборки 'C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.InstallLog
+   assemblypath = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe
