@@ -74,3 +74,38 @@ System.Security.SecurityException: Источник не найден, но не
    logtoconsole = 
    logfile = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.InstallLog
    assemblypath = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe
+Выполняется установка сборки 'C:\Users\daniel\Desktop\csharp\ETL\ETL\bin\Debug\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\daniel\Desktop\csharp\ETL\ETL\bin\Debug\ETL.InstallLog
+   assemblypath = C:\Users\daniel\Desktop\csharp\ETL\ETL\bin\Debug\ETL.exe
+Устанавливается служба ETL...
+Создается исходный EventLog ETL в журнале Application...
+Выполняется откат для сборки 'C:\Users\daniel\Desktop\csharp\ETL\ETL\bin\Debug\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\daniel\Desktop\csharp\ETL\ETL\bin\Debug\ETL.InstallLog
+   assemblypath = C:\Users\daniel\Desktop\csharp\ETL\ETL\bin\Debug\ETL.exe
+Восстанавливается исходное состояние журнала событий для источника ETL.
+Выполняется установка сборки 'C:\Users\daniel\Desktop\csharp\ETL\ETL\bin\Debug\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\daniel\Desktop\csharp\ETL\ETL\bin\Debug\ETL.InstallLog
+   assemblypath = C:\Users\daniel\Desktop\csharp\ETL\ETL\bin\Debug\ETL.exe
+Устанавливается служба ETL...
+Создается исходный EventLog ETL в журнале Application...
+Выполняется откат для сборки 'C:\Users\daniel\Desktop\csharp\ETL\ETL\bin\Debug\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\daniel\Desktop\csharp\ETL\ETL\bin\Debug\ETL.InstallLog
+   assemblypath = C:\Users\daniel\Desktop\csharp\ETL\ETL\bin\Debug\ETL.exe
+Восстанавливается исходное состояние журнала событий для источника ETL.
+Выполняется удаление сборки 'C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.InstallLog
+   assemblypath = C:\Users\daniel\Desktop\sharp\ETL\ETL\bin\Debug\ETL.exe
+Выполняется удаление источника EventLog ETL.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.

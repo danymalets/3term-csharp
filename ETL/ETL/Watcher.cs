@@ -14,12 +14,13 @@ namespace ETL
         Logger logger;
         string source;
         string target;
+        bool needArchive;
 
-
-        public Watcher(string source, string target)
+        public Watcher(string source, string target, bool needArchive)
         {
             this.source = source;
             this.target = target;
+            this.needArchive = needArchive;
             Directory.CreateDirectory(source);
             Directory.CreateDirectory(target);
 
@@ -62,15 +63,16 @@ namespace ETL
                 string gzPath = Path.Combine(target, name + ".gz");
                 string newPath = Path.Combine(target, name + ext);
 
-                Archive.Compress(path, gzPath);
-                Archive.Decompress(gzPath, newPath);
+                if (needArchive) Archive.Compress(path, gzPath);
+                if (needArchive) Archive.Decompress(gzPath, newPath);
+                if (!needArchive) File.Copy(path, newPath);
 
                 contents = File.ReadAllBytes(newPath);
                 contents = Encryptor.Decrypt(contents, key, iv);
                 File.WriteAllBytes(newPath, contents);
 
                 File.Delete(path);
-                File.Delete(gzPath);
+                if (needArchive) File.Delete(gzPath);
 
                 string year = dt.ToString("yyyy");
                 string month = dt.ToString("MM");

@@ -5,3 +5,10 @@ C:\Users\daniel\Desktop\sharp\ETL\ETL\obj\Debug\ETL.csprojAssemblyReference.cach
 C:\Users\daniel\Desktop\sharp\ETL\ETL\obj\Debug\ETL.csproj.CoreCompileInputs.cache
 C:\Users\daniel\Desktop\sharp\ETL\ETL\obj\Debug\ETL.exe
 C:\Users\daniel\Desktop\sharp\ETL\ETL\obj\Debug\ETL.pdb
+C:\Users\daniel\Desktop\csharp\ETL\ETL\bin\Debug\ETL.exe.config
+C:\Users\daniel\Desktop\csharp\ETL\ETL\bin\Debug\ETL.exe
+C:\Users\daniel\Desktop\csharp\ETL\ETL\bin\Debug\ETL.pdb
+C:\Users\daniel\Desktop\csharp\ETL\ETL\obj\Debug\ETL.csprojAssemblyReference.cache
+C:\Users\daniel\Desktop\csharp\ETL\ETL\obj\Debug\ETL.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\csharp\ETL\ETL\obj\Debug\ETL.exe
+C:\Users\daniel\Desktop\csharp\ETL\ETL\obj\Debug\ETL.pdb

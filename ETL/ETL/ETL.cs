@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Diagnostics;
+using System.IO;
 using System.Linq;
 using System.ServiceProcess;
 using System.Text;
@@ -13,8 +14,8 @@ namespace ETL
     public partial class ETL : ServiceBase
     {
         Watcher watcher;
-        string source = @"C:\Users\daniel\Desktop\source";
-        string target = @"C:\Users\daniel\Desktop\target";
+        static string path1 = @"C:\Users\daniel\Desktop\opt.json";
+        static string path2 = @"C:\Users\daniel\Desktop\opt.xml";
 
         public ETL()
         {
@@ -23,7 +24,17 @@ namespace ETL
 
         protected override void OnStart(string[] args)
         {
-            watcher = new Watcher(source, target);
+            Configuration config;
+            try
+            {
+                ConfigurationProvider provider = new ConfigurationProvider(path1);
+                config = provider.GetConfiguration();
+            }
+            catch
+            {
+                config = new Configuration();
+            }
+            watcher = new Watcher(config.sourcePath, config.targetPath, config.needArchive);
             watcher.Start();
         }
 

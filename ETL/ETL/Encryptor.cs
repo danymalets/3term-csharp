@@ -10,7 +10,7 @@ namespace ETL
 {
     static class Encryptor
     {
-        static public (byte[], byte[]) CreateKeyAndIV()
+        public static (byte[], byte[]) CreateKeyAndIV()
         {
             byte[] key, IV;
             using (Aes myAes = Aes.Create())
@@ -21,7 +21,7 @@ namespace ETL
             return (key, IV);
         }
 
-        static public byte[] Encrypt(byte[] data, byte[] key, byte[] iv)
+        public static byte[] Encrypt(byte[] data, byte[] key, byte[] iv)
         {
             using (var aes = Aes.Create())
             {
