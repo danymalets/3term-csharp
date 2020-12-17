@@ -1,0 +1,6 @@
+C:\Users\daniel\Desktop\sharp\lab3\DataManager\ConfigurationManager\bin\Debug\ConfigurationManager.dll
+C:\Users\daniel\Desktop\sharp\lab3\DataManager\ConfigurationManager\bin\Debug\ConfigurationManager.pdb
+C:\Users\daniel\Desktop\sharp\lab3\DataManager\ConfigurationManager\obj\Debug\ConfigurationManager.csprojAssemblyReference.cache
+C:\Users\daniel\Desktop\sharp\lab3\DataManager\ConfigurationManager\obj\Debug\ConfigurationManager.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\sharp\lab3\DataManager\ConfigurationManager\obj\Debug\ConfigurationManager.dll
+C:\Users\daniel\Desktop\sharp\lab3\DataManager\ConfigurationManager\obj\Debug\ConfigurationManager.pdb

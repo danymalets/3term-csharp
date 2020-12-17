@@ -1,0 +1,14 @@
+C:\Users\daniel\Desktop\sharp\lab3\DataManager\DataManager\bin\Debug\DataManager.exe.config
+C:\Users\daniel\Desktop\sharp\lab3\DataManager\DataManager\bin\Debug\DataManager.exe
+C:\Users\daniel\Desktop\sharp\lab3\DataManager\DataManager\bin\Debug\DataManager.pdb
+C:\Users\daniel\Desktop\sharp\lab3\DataManager\DataManager\bin\Debug\DataAccessLayer.dll
+C:\Users\daniel\Desktop\sharp\lab3\DataManager\DataManager\bin\Debug\DataAccessLayer.pdb
+C:\Users\daniel\Desktop\sharp\lab3\DataManager\DataManager\obj\Debug\DataManager.csprojAssemblyReference.cache
+C:\Users\daniel\Desktop\sharp\lab3\DataManager\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\sharp\lab3\DataManager\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+C:\Users\daniel\Desktop\sharp\lab3\DataManager\DataManager\obj\Debug\DataManager.exe
+C:\Users\daniel\Desktop\sharp\lab3\DataManager\DataManager\obj\Debug\DataManager.pdb
+C:\Users\daniel\Desktop\sharp\lab3\DataManager\DataManager\bin\Debug\ConfigurationManager.dll
+C:\Users\daniel\Desktop\sharp\lab3\DataManager\DataManager\bin\Debug\ServiceLayer.dll
+C:\Users\daniel\Desktop\sharp\lab3\DataManager\DataManager\bin\Debug\ConfigurationManager.pdb
+C:\Users\daniel\Desktop\sharp\lab3\DataManager\DataManager\bin\Debug\ServiceLayer.pdb
